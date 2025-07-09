@@ -1,0 +1,4 @@
+# configs/config.yaml
+http_addr: ":8080"
+mongodb_uri: "mongodb://localhost:27017"
+mongodb_db: "reflekt"
